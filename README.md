@@ -8,16 +8,23 @@
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
-## Oi!👋 , seja bem vindo ! me chamo **Douglas Venanccio**, e atualmente estudo programação na **Alura / Dio.me / OneBitCode** 🚀. 
+## Oi!👋 , seja bem vindo ! me chamo **Douglas Venanccio** atualmente estudo programação na **Alura / Dio.me / OneBitCode** 🚀. 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="320px" />   
 <br />
 <br />
-
-- 🔭 Sou estudante de programação da Alura, botCamp Santander developers Full Stack - Dio.me, e OneBitCode.
+<div align="left">
+- 🔭 Estudo programação nos Cursos Alura, e OneBitCode.
+<br>
+- Atualmente participo do BotCamp Santander Developers Full Stack Java.
+<br>
 - 🌱 No momento estou aprendendo HTML, CSS, JavaScript, React, Desenvolvimento back-End Java, e Introdução à Ciência da Computação ...
+<br/>
 - 👯 Estou desenvolvendo minhas Soft Skills, trabalho em equipe, colaboração e metodologias ágeis ao longo da formação!
+<br/>
 - 🤔 Meus hobbies e atividades em meu tempo livre são música, viagens, academia e jogos online ...
+<br/>
 - 💬 Pergunte-me sobre qualquer coisa ...
+<br>
 - 📫 Entre em contato:
   <br />
   <br />
@@ -27,6 +34,7 @@
   <br />
 <br />
 <br />
+</div>
 <div align="center">
   <a href="https://github.com/DouglasVenanccio">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=DouglasVenanccio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -45,7 +53,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
   
-
   ![Snake animation](https://github.com/DouglasVenanccio/DouglasVenanccio/blob/output/github-contribution-grid-snake.svg)
   </div>
 
