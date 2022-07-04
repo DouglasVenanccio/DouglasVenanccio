@@ -30,9 +30,6 @@
   <br />
   **Email: douglas.venanccio@gmail.com**
   <br />
-  **Telefone: (021) 98086-0444**
-  <br />
-<br />
 <br />
 </div>
 <div align="center">
